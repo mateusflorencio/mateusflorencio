@@ -37,6 +37,6 @@
     
    
     
-    ![Snake animation](https://github.com/mateusflorencio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mateusflorencio/mateusflorencio/blob/output/github-contribution-grid-snake.svg)
   
   
